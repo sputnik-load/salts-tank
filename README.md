@@ -1,2 +1,2 @@
-# salts-tank
-Small supporting server for interactions between Tank server and SALTS 
+Salts-tank - вспомогательный сервер для выполнения запросов к хосту,
+где работает yandex-tank-api-server.
